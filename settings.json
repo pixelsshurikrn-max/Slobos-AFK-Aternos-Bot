@@ -6,9 +6,17 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "
+Players
+0/20
+2385 MB RAM
+55.91%
+TPS
+20
+ Address
+GR_Empire.aternos.me",
+    "port": 43876,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
